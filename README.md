@@ -3,7 +3,8 @@
 ## 🔭 Currently Working On<br>
 - **Feedback Collection System** using the MERN stack<br>
 - **Real Time Chat Application** using the MERN stack & Socket.io<br><br>
-## 🌱 Learning<br>- Advanced JavaScript concepts<br><br>## 👯 Looking to Collaborate On<br>- Open-source projects in web development<br><br>## ⚡ Fun Fact<br>I enjoy playing games, coding, and learning new technologies during my free time!<br><br>## 📫 How to Reach Me<br>- [LinkedIn](https://www.linkedin.com/in/yourprofile)<br>- [Twitter](https://twitter.com/yourprofile)<br><br>## 💻 Technologies & Tools<br>- HTML, CSS, JavaScript<br>- React, Node.js, Express<br>- MongoDB, Git, GitHub<br><br>## 🌟 My Projects<br>- [Chat Application](at-application-de2t.onrender.com)<br><br>![Your GitHub Stats](https://github.com/GAURAVETH)<br>
+## 🌱 Learning<br>- Advanced JavaScript concepts<br><br>## 👯 Looking to Collaborate On<br>- Open-source projects in web development<br><br>## ⚡ Fun Fact<br>I enjoy playing games, coding, and learning new technologies during my free time!<br><br>## 
+## 💻 Technologies & Tools<br>- HTML, CSS, JavaScript<br>- React, Node.js, Express<br>- MongoDB, Git, GitHub<br><br>## 🌟 My Projects<br>- [Chat Application](Cat-application-de2t.onrender.com)<br><br>![Your GitHub Stats](https://github.com/GAURAVETH)<br>
 
 
 ## 🌐 Socials:
