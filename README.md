@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Gaurav 👋<br><br>I'm a web developer passionate about building user-friendly applications. I specialize in **React**, **Node.js**, and **CSS**. I love exploring new technologies and sharing knowledge with the community.<br><br>
+# Hi there, I'm Gaurav 👋<br><br>I'm a Full Stack Web Developer passionate about building user-friendly applications. I specialize in **React**, **Node.js**, and **CSS**. I love exploring new technologies and sharing knowledge with the community.<br><br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=GAURAVETH&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
